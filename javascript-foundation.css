@@ -4,10 +4,7 @@
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
 }
-H2{
-    color: #000000;
-    width: 25%;
-}
+
 body {
     width: 100vw;
     height: 100vh;
